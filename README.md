@@ -8,7 +8,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/IshaanPrakash/StudyBud
+git clone https://github.com/IshaanPrakash/IshaanPrakash.github.io
 
 ```
 
